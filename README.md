@@ -1,4 +1,4 @@
-##JD9161 DSI 파일
+## JD9161 DSI 파일
 
 Intrinsyc 의 Windows IoT Core 의 디스플레이 설정 파일인 panelcfg.asl 을 수정하여 눈읠 띄어 봤다 
 Inrtinsyc 의 OpenQ410의 User Manual 을 보면 OSD045T2906-43TS,  JD9161BA 의 조합을 사용하는 것으로 확인했다. 
@@ -116,6 +116,6 @@ Inrtinsyc 의 OpenQ410의 User Manual 을 보면 OSD045T2906-43TS,  JD9161BA 의
 "</DSITermSequence>\n";
 
 
-#최종 패널 상태 
+# 최종 패널 상태 
 ![Result](image/JD9161.jpg) 
 
